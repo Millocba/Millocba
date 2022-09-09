@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/héctor-fabián-banega-1368b114a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/héctor-fabián-banega-1368b114a" height="30" width="40" /></a>
+<a href="https://https://www.linkedin.com/in/h%C3%A9ctor-fabi%C3%A1n-banega-1368b114a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/héctor-fabián-banega-1368b114a" height="30" width="40" /></a>
 <a href="https://fb.com/hector.banega.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hector.banega.7" height="30" width="40" /></a>
 <a href="https://instagram.com/@hectorbanega83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@hectorbanega83" height="30" width="40" /></a>
 <a href="https://discord.gg/Millo#2483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Millo#2483" height="30" width="40" /></a>
